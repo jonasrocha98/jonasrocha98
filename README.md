@@ -17,5 +17,3 @@
 </div></br>
 
 Estudande de Anlálise e Desenvolvimento de Software, focado em conseguir minha primeira oportunidade profissional na área.
-
-Linkedin em desenvolvimento...
